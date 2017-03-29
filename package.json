@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "diff2html": "2.3.0",
+    "difflib": "0.2.4"
+  },
+  "name": "gh-diff-html",
+  "version": "0.0.1",
+  "description": "generate GitHub like diff HTML",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "diff",
+    "html"
+  ],
+  "author": "nakajmg",
+  "license": "MIT"
+}
