@@ -1,10 +1,12 @@
 # gh-diff-html
 
+generate GitHub like diff 😋
+
 ## example of usage
 
 ```js
 var fs = require('fs')
-var ghDiffHTML = require('./index')
+var ghDiffHTML = require('gh-diff-html')
 
 var before = `import Vue from 'vue'
 const vm = new Vue({
