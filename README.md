@@ -71,8 +71,8 @@ fs.writeFileSync('./index.html', HTML)
 
 - line-by-lyne
 
-![](http://imgur.com/A4fNdb9)
+![](http://imgur.com/A4fNdb9.png)
 
 - side-by-side
 
-![](http://imgur.com/hFUYeTT)
+![](http://imgur.com/hFUYeTT.png)
