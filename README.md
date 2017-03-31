@@ -69,10 +69,12 @@ ${html}
 fs.writeFileSync('./index.html', HTML)
 ```
 
-- line-by-lyne
+### result
+
+#### line-by-line
 
 ![](http://imgur.com/A4fNdb9.png)
 
-- side-by-side
+#### side-by-side
 
 ![](http://imgur.com/hFUYeTT.png)
