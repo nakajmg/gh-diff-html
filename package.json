@@ -4,7 +4,7 @@
     "difflib": "0.2.4"
   },
   "name": "gh-diff-html",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "generate GitHub like diff HTML",
   "main": "index.js",
   "devDependencies": {},
@@ -17,5 +17,12 @@
     "html"
   ],
   "author": "nakajmg",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakajmg/gh-diff-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nakajmg/gh-diff-html/issues"
+  }
 }
