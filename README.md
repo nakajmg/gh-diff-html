@@ -1,4 +1,4 @@
-# gh-diff-html
+# gh-diff-htmlaa
 
 generate GitHub like diff 😋
 
